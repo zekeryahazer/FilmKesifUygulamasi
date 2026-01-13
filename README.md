@@ -6,9 +6,7 @@ CineTrack, **TMDB API** kullanarak güncel film verilerini modern bir arayüzle 
 
 | Ana Ekran | Arama Ekranı | Film Detayı |
 |:---:|:---:|:---:|
-| ![Home](screenshots/home.jpg) | ![Search](screenshots/search.jpg) | ![Detail](screenshots/detail.jpg) |
-
-*(Not: Proje klasörünüze `screenshots` adında bir klasör açıp, aldığınız ekran görüntülerini belirtilen isimlerle içine atınız.)*
+| ![Home](home.jpeg) | ![Search](search.jpeg) | ![Detail](detail.jpeg) |
 
 ## ✨ Özellikler
 
