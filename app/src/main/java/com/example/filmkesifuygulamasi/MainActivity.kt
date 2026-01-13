@@ -40,7 +40,7 @@ import retrofit2.converter.gson.GsonConverterFactory
 import retrofit2.http.GET
 import retrofit2.http.Query
 
-const val API_KEY = "178af4cbdd0eeb18d9799ce47d2ae238"
+const val API_KEY = ""//TMDB Api yi giriniz
 const val IMAGE_BASE_URL = "https://image.tmdb.org/t/p/w500/"
 
 data class SimpleMovieResponse(
